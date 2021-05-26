@@ -31,3 +31,7 @@ no idea yet.
 - keep higher, keep lower D_a and D_b
 get each table of D_a and D_b.
 compare and aggregate it.
+
+
+2021/05/27
+memo : maybe it would be faster to using naive approach with WASM.
